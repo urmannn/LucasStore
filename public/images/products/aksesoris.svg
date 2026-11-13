@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs><linearGradient id="g3" x1="0" y1="0" x2="400" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#FEF3C7"/><stop offset="1" stop-color="#FDE68A"/></linearGradient></defs>
+  <rect width="400" height="300" fill="url(#g3)"/>
+  <rect x="176" y="60" width="48" height="34" rx="8" fill="#78350F"/>
+  <rect x="176" y="186" width="48" height="34" rx="8" fill="#78350F"/>
+  <circle cx="200" cy="140" r="52" fill="#FFFBEB" stroke="#D97706" stroke-width="8"/>
+  <path d="M200 112v28l20 12" stroke="#92400E" stroke-width="6" stroke-linecap="round"/>
+  <text x="200" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#92400E">AKSESORIS</text>
+</svg>
